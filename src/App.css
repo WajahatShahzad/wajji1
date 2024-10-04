@@ -1,0 +1,17 @@
+
+.center{
+text-align: center;
+flex: auto;
+margin: 10px;
+
+}
+.h{
+
+ 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #42c3cc;
+        padding: 1rem;
+      
+}
