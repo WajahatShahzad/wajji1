@@ -13,5 +13,5 @@ export default defineCliConfig({
    * Learn more at https://www.sanity.io/docs/cli#auto-updates
    */
   autoUpdates: true,
-  studioHost:'wajahat123$'
+  studioHost:'wajahat'
 })

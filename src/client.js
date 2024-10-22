@@ -4,7 +4,8 @@ export default client({
 projectId:"86l1kpea",
 dataset:"production",
 useCdn:true,
-apiVersion:"2024-09-28"
+apiVersion:"2024-09-28",
+token:process.env.REACT_APP_SANITY_TOKEN
 
 
 
